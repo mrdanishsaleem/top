@@ -9,7 +9,7 @@ This is where it all begins! A hands-on introduction to all of the essential too
 ### [Introduction](https://www.theodinproject.com/paths/foundations/courses/foundations#introduction)
 
 - [x] [How this Course Will Work](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work)
-- [ ] [Introduction To Web Development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
+- [x] [Introduction To Web Development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
 - [ ] [Motivation And Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
 - [ ] [Asking For Help](https://www.theodinproject.com/lessons/foundations-asking-for-help)
 - [ ] [Join The Odin Community](https://www.theodinproject.com/lessons/foundations-join-the-odin-community)
