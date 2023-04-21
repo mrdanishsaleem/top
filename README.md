@@ -11,5 +11,5 @@ This is where it all begins! A hands-on introduction to all of the essential too
 - [x] [How this Course Will Work](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work)
 - [x] [Introduction To Web Development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
 - [x] [Motivation And Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
-- [ ] [Asking For Help](https://www.theodinproject.com/lessons/foundations-asking-for-help)
-- [ ] [Join The Odin Community](https://www.theodinproject.com/lessons/foundations-join-the-odin-community)
+- [x] [Asking For Help](https://www.theodinproject.com/lessons/foundations-asking-for-help)
+- [x] [Join The Odin Community](https://www.theodinproject.com/lessons/foundations-join-the-odin-community)
