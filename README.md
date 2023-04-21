@@ -75,4 +75,4 @@ This is where it all begins! A hands-on introduction to all of the essential too
 
 ### [Conclusion](https://www.theodinproject.com/paths/foundations/courses/foundations#conclusion)
 
-- [Choose Your Path Forward] [](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward)
+- [] [Choose Your Path Forward](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward)
