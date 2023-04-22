@@ -22,7 +22,7 @@ This is where it all begins! A hands-on introduction to all of the essential too
 - [x] [Installations](https://www.theodinproject.com/lessons/foundations-installations)
 - [x] [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
 - [x] [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
-- [ ] [Setting Up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+- [x] [Setting Up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 
 ### [Git Basics](https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics)
 
