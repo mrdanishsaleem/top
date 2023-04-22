@@ -18,10 +18,10 @@ This is where it all begins! A hands-on introduction to all of the essential too
 
 - [x] [Computer Basics](https://www.theodinproject.com/lessons/foundations-computer-basics)
 - [x] [How Does the Web Work?](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
-- [ ] [Installation Overview](https://www.theodinproject.com/lessons/foundations-installation-overview)
-- [ ] [Installations](https://www.theodinproject.com/lessons/foundations-installations)
-- [ ] [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
-- [ ] [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
+- [x] [Installation Overview](https://www.theodinproject.com/lessons/foundations-installation-overview)
+- [x] [Installations](https://www.theodinproject.com/lessons/foundations-installations)
+- [x] [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
+- [x] [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 - [ ] [Setting Up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 
 ### [Git Basics](https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics)
