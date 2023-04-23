@@ -31,7 +31,7 @@ This is where it all begins! A hands-on introduction to all of the essential too
 
 ### [HTML Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
 
-- [ ] [Introduction to HTML and CSS](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css)
+- [x] [Introduction to HTML and CSS](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css)
 - [ ] [Elements and Tags](https://www.theodinproject.com/lessons/foundations-elements-and-tags)
 - [ ] [HTML Boilerplate](https://www.theodinproject.com/lessons/foundations-html-boilerplate)
 - [ ] [Working with Text](https://www.theodinproject.com/lessons/foundations-working-with-text)
