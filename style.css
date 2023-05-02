@@ -1,9 +1,29 @@
 * {
-  color: black;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 24px;
+  margin: 0;
 }
 
-h1 {
-  color: orangered;
+.hero-image {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+}
+
+.hero-image img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
+}
+
+.hero-title {
+  font-size: 40px;
+  color: #ff6000;
+  text-align: center;
 }
