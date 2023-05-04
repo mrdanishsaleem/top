@@ -44,7 +44,7 @@ This is where it all begins! A hands-on introduction to all of the essential too
 
 - [x] [CSS Foundation](https://www.theodinproject.com/lessons/foundations-css-foundations)
 - [x] [Inspecting HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
-- [ ] [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
+- [x] [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
 - [ ] [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
 
 ### [Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
