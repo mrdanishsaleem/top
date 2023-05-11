@@ -1,0 +1,27 @@
+div {
+  padding: 30px;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #eeeeee;
+}
+
+.introduction {
+  background-color: #548cab;
+}
+
+.main-content {
+  background-color: #476072;
+}
+
+.contact-us {
+  background-color: #334257;
+}
+
+.testing-span {
+  background-color: rgb(211, 141, 141);
+}
+
+.highlight {
+  background-color: yellow;
+  color: black;
+}
