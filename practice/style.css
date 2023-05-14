@@ -1,0 +1,7 @@
+.button-text {
+  position: relative;
+  display: grid;
+  grid-template-columns: 48px auto;
+  align-items: center;
+  height: 48px;
+}
