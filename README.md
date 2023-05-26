@@ -49,7 +49,7 @@ This is where it all begins! A hands-on introduction to all of the essential too
 
 ### [Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
 
-- [ ] [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
+- [x] [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
 - [ ] [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
 - [ ] [Axes](https://www.theodinproject.com/lessons/foundations-axes)
 - [ ] [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
