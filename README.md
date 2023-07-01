@@ -51,7 +51,7 @@ This is where it all begins! A hands-on introduction to all of the essential too
 
 - [x] [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
 - [x] [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
-- [ ] [Axes](https://www.theodinproject.com/lessons/foundations-axes)
+- [x] [Axes](https://www.theodinproject.com/lessons/foundations-axes)
 - [ ] [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
 - [ ] [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
 
