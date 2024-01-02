@@ -12,3 +12,12 @@ This is where it all begins! A hands-on introduction to all of the essential too
 - [ ] [Motivation and Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
 - [ ] [Asking for Help](https://www.theodinproject.com/lessons/foundations-asking-for-help)
 - [ ] [Join the Odin Community](https://www.theodinproject.com/lessons/foundations-join-the-odin-community)
+
+### [Prerequisites](https://www.theodinproject.com/paths/foundations/courses/foundations#prerequisites)
+
+- [ ] [Computer Basics](https://www.theodinproject.com/lessons/foundations-computer-basics)
+- [ ] [How Does the Web Work?](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
+- [ ] [Installation Overview](https://www.theodinproject.com/lessons/foundations-installation-overview)
+- [ ] [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
+- [ ] [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
+- [ ] [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
