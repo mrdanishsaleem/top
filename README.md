@@ -6,3 +6,5 @@
 This is where it all begins! A hands-on introduction to all of the essential tools you'll need to build real, working websites. You'll learn what web developers actually do – the foundations you'll need for later courses.
 
 ### [Introduction](https://www.theodinproject.com/paths/foundations/courses/foundations#introduction)
+
+- [x] [How This Course Will Work](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work)
