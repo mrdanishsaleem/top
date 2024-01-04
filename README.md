@@ -22,3 +22,8 @@ This is where it all begins! A hands-on introduction to all of the essential too
 - [x] [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
 - [x] [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 - [x] [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+
+### [Git Basics](https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics)
+
+- [ ] [Introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
+- [ ] [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
