@@ -27,3 +27,7 @@ This is where it all begins! A hands-on introduction to all of the essential too
 
 - [x] [Introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
 - [x] [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
+
+### [HTML Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
+
+- [x] [Introduction to HTML and CSS](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css)
