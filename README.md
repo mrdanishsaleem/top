@@ -26,4 +26,4 @@ This is where it all begins! A hands-on introduction to all of the essential too
 ### [Git Basics](https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics)
 
 - [x] [Introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
-- [ ] [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
+- [x] [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
