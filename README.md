@@ -35,6 +35,6 @@ This is where it all begins! A hands-on introduction to all of the essential too
 - [x] [HTML Boilerplate](https://www.theodinproject.com/lessons/foundations-html-boilerplate)
 - [x] [Working with Text](https://www.theodinproject.com/lessons/foundations-working-with-text)
 - [x] [Lists](https://www.theodinproject.com/lessons/foundations-lists)
-- [ ] [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
+- [x] [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
 - [ ] [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
 - [ ] [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
