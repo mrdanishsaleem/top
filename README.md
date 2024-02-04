@@ -37,4 +37,4 @@ This is where it all begins! A hands-on introduction to all of the essential too
 - [x] [Lists](https://www.theodinproject.com/lessons/foundations-lists)
 - [x] [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
 - [x] [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
-- [ ] [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
+- [x] [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
